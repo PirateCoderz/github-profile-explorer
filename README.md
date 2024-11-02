@@ -4,6 +4,19 @@ GitHub Profile Finder is a simple, dynamic Next.js (15.0.2) application that all
 
 ---
 
+## Table of Contents
+
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [Pages](#pages)
+  - [Home Page](#1-home-page)
+  - [Profiles Page](#2-profiles-page)
+- [How to Use](#how-to-use)
+- [Installation](#installation)
+- [Roadmap](#roadmap)
+
+---
+
 ## Features
 
 - **Profile Search by Username:** The main page includes a search form that fetches details of a specific GitHub profile by username.
