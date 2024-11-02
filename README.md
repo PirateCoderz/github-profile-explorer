@@ -40,7 +40,7 @@ GitHub Profile Finder is a simple, dynamic Next.js (15.0.2) application that all
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/github-profile-finder.git
+   git clone https://github.com/piratecoderz/github-profile-finder.git
    cd github-profile-finder
    ```
 
